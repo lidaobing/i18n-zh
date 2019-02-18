@@ -10,9 +10,14 @@
 * ISO-639-5: <a href="https://hosted.weblate.org/engage/iso-codes/zh_Hans/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/iso-codes/zh_Hans/iso-639-5/svg-badge.svg" alt="翻译状态" /></a>
 * ISO-15924: <a href="https://hosted.weblate.org/engage/iso-codes/zh_Hans/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/iso-codes/zh_Hans/iso-15924/svg-badge.svg" alt="翻译状态" /></a>
 
-## GNOME
+## 桌面系统
 
-* https://l10n.gnome.org/teams/zh_CN/
+* GNOME: https://l10n.gnome.org/teams/zh_CN/
+* KDE: https://community.kde.org/KDE_Localization/zh-cn
+* XFCE: https://www.transifex.com/xfce/public/
+* LXDE: https://pootle.lxde.org/zh_CN/
+
+
 
 ## 目录结构
 
