@@ -10,6 +10,10 @@
 * ISO-639-5: <a href="https://hosted.weblate.org/engage/iso-codes/zh_Hans/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/iso-codes/zh_Hans/iso-639-5/svg-badge.svg" alt="翻译状态" /></a>
 * ISO-15924: <a href="https://hosted.weblate.org/engage/iso-codes/zh_Hans/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/iso-codes/zh_Hans/iso-15924/svg-badge.svg" alt="翻译状态" /></a>
 
+## GNOME
+
+* https://l10n.gnome.org/teams/zh_CN/
+
 ## 目录结构
 
 ```
