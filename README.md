@@ -17,7 +17,9 @@
 * XFCE: https://www.transifex.com/xfce/public/
 * LXDE: https://pootle.lxde.org/zh_CN/
 
+## 论坛
 
+* https://groups.google.com/forum/#!forum/i18n-zh
 
 ## 目录结构
 
